@@ -21,6 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocortelassi&" alt="gustavocortelassi" /></p>
 
-https://github.com/gustavocortelassi/gustavocortelassi/blob/output/github-contribution-grid-snake.gif
-
-![snake gif](https://github.com/gustavocortelassi/gustavocortelassi/blob/output/github-contribution-grid-snake.gif)
