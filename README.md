@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo</h1>
 <h3 align="center">A student of Software Engineer from Toledo-PR</h3>
 
-- 🌱 I’m currently learning **Flutter and Python**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **gutocortelassi72@gmail.com**
 
