@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gustavocortelassi&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=gustavocortelassi&theme=transparent&hide_border=false)<br/>
